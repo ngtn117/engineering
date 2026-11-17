@@ -1,0 +1,10 @@
+.venv/
+modelos/
+proyectos/
+videos/
+referencias/
+musica/
+estilos/
+glosario.txt
+.token
+tunel.log

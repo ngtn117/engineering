@@ -1,0 +1,14 @@
+# Ajustes del editor (puedes dejarlo tal cual).
+
+# Modelo de voz para transcribir: tiny, base, small, medium, large-v3
+#   small  = buen equilibrio (recomendado)
+#   medium = mas preciso pero unas 3 veces mas lento
+# Si lo cambias, se descarga solo la primera vez que lo uses.
+MODELO_WHISPER=small
+
+# Idioma del podcast (es, en, pt, ...)
+IDIOMA=es
+
+# Opcional: URL fija con ngrok, para no tener que cambiar la URL en ChatGPT cada vez.
+# Mira el apartado "URL fija" del LEEME.
+# NGROK_DOMINIO=tu-nombre.ngrok-free.app

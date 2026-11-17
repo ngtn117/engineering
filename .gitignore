@@ -1,0 +1,12 @@
+# Videos y archivos pesados (no van al repo)
+*.mp4
+*.mov
+*.zip
+uploads/
+
+# Secretos y entornos locales
+.env
+.token
+*.log
+.venv/
+__pycache__/
